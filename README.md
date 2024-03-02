@@ -1,2 +1,2 @@
 # primeiro-projeto
- Este é o primeiro projto da discilina de Web Developmnt
+ Este é o primeiro projeto da discilina de Web Developmnt.
